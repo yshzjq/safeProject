@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/UseScene/completeScene/TitleScene.unity
+    guid: 844f0c38a62dd044c9b77faf82dc6336
+  - enabled: 0
+    path: Assets/Scenes/UseScene/completeScene/EndScene.unity
+    guid: d784918fb8e7bef409b7ea340cc9e7b3
+  - enabled: 0
+    path: Assets/Scenes/UseScene/completeScene/Library(F6)_1.unity
+    guid: c30385cab965fb14a8bd3f41d21b32e2
+  - enabled: 0
+    path: Assets/Scenes/UseScene/completeScene/Library(F6)_1_next_Scene.unity
+    guid: 2386469f5fdf1194082f39d1c8aeabf1
+  - enabled: 0
+    path: Assets/Scenes/UseScene/completeScene/Library(F6)_2.unity
+    guid: e3567d5f858aadc4dbda08219c4e6af4
+  - enabled: 0
+    path: Assets/Scenes/UseScene/completeScene/Lobby(F1)_next_Scene.unity
+    guid: e440285fae11c7345a9339ed98e049c1
+  - enabled: 0
+    path: Assets/Scenes/UseScene/completeScene/TutorialScene.unity
+    guid: 5ff8c7543c393bb45b8a04042f31b61c
+  - enabled: 1
+    path: Assets/Scenes/UseScene/completeScene/New Scene.unity
+    guid: 3aa709feb47444c41914ed540b44cea3
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e9bad5945977263459fa66ebe7eb0f8c, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b5afa8c044b37b547a0a5bb99741fc6e, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: be1d5cbd9570b8e479643767a55c8a25, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 868de23b6d5d9904cb1d6b70a3e58fa8, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ce4019296ff46894290fbb4a050b3294, type: 2}
